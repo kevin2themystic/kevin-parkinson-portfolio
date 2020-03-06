@@ -2,22 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Professional Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stream Property Solutions](https://www.streampsl.com)
+<img src="images/Streampsl.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rosenau Transport Ltd.](https://www.rosenau.ca/driven-by-rosenau/)
+<img src="images/RosenauTransport.PNG?raw=true"/>
 
 ---
 
-### Category Name 2
+### Personal Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
