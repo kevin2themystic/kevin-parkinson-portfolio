@@ -4,7 +4,8 @@
 
 ### Professional Projects 
 
-[Stream Property Solutions](https://www.streampsl.com)
+[Stream Property Solutions](<a href="https://www.streampsl.com" target="_blank">streampsl.com</a>)
+
 <img src="images/Streampsl.PNG?raw=true"/>
 
 ---
@@ -15,11 +16,14 @@
 
 ### Personal Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[ReacTicTacToe]()
+<img />
+
+[Peak Self Time Blocker]()
+<img />
+
+[TBA]()
+<img />
 
 ---
 
