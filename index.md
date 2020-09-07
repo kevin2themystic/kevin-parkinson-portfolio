@@ -1,11 +1,16 @@
 ## Portfolio
 
+About Me
+
+[View My Resume](<a href="https://resume" target="_blank">Resume"</a>)
+
 ---
 
 ### Professional Projects 
+[AGLC Alberta Liquor, Gaming and Cannabis Commission](<a href="https://linktolsaprod.ca" target="_blank">linktolsaprod.ca"</a>)
+<img src="images/Streampsl.PNG?raw=true"/>
 
 [Stream Property Solutions](<a href="https://www.streampsl.com" target="_blank">streampsl.com</a>)
-
 <img src="images/Streampsl.PNG?raw=true"/>
 
 ---
@@ -16,13 +21,13 @@
 
 ### Personal Projects
 
+[Ralph's Movie List]()
+<img />
+
 [ReacTicTacToe]()
 <img />
 
 [Peak Self Time Blocker]()
-<img />
-
-[TBA]()
 <img />
 
 ---
