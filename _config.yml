@@ -8,7 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   </p>
   <br><br>
-  View My <a target="_blank" href="https://kevin2themystic.github.io/react-resume//">Resume</a>  Built with React + Typescript
+  View my <a target="_blank" href="https://kevin2themystic.github.io/react-resume//">resume</a> built with React + Typescript
+  <br>
   Connect with me on <a target="_blank" href="https://www.linkedin.com/in/kevinaparkinson/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal

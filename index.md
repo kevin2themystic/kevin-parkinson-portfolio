@@ -1,34 +1,55 @@
 ## Portfolio
 
 ### Professional Projects 
-[AGLC Alberta Liquor, Gaming and Cannabis Commission](<a href="https://linktolsaprod.ca" target="_blank">linktolsaprod.ca"</a>)
-<img src="images/Streampsl.PNG?raw=true"/>
 
-[Stream Property Solutions](<a href="https://www.streampsl.com" target="_blank">streampsl.com</a>)
-<img src="images/Streampsl.PNG?raw=true"/>
+#### 1. Alberta Liquor, Gaming and Cannabis Commission (AGLC)
 
----
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+<img src="images/Streampsl.PNG?raw=true"/>
+For more details see [AGLC AMI Portal](linktolsaprod.ca/).
+
+#### 2. Stream Property Solutions
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+<img src="images/Streampsl.PNG?raw=true"/>
+For more details see [Stream Property Solutions](https://www.streampsl.com").
+
+#### 3. Rosenau Transport Ltd.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
 [Rosenau Transport Ltd.](https://www.rosenau.ca/driven-by-rosenau/)
 <img src="images/RosenauTransport.PNG?raw=true"/>
+For more details see [Rosenau Transport](https://www.rosenau.ca/driven-by-rosenau/").
 
 ---
 
 ### Personal Projects
 
-[Ralph's Movie List]()
-<img />
+#### 1. Ralph's Movie List
 
-[ReacTicTacToe]()
-<img />
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-[Peak Self Time Blocker]()
-<img />
+<img src="images/Streampsl.PNG?raw=true"/>
+For more details see [Ralph's Movie List]().
+
+#### 2. ReacTicTacToe
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+<img src="images/Streampsl.PNG?raw=true"/>
+For more details see [ReacTicTacToe]().
+
+#### 3. Peak Self Time Blocker
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+<img src="images/Streampsl.PNG?raw=true"/>
+For more details see [Peak Self Time Blocker]().
 
 ---
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
