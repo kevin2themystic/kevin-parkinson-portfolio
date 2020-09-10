@@ -1,11 +1,5 @@
 ## Portfolio
 
-About Me
-
-[View My Resume](<a href="https://resume" target="_blank">Resume"</a>)
-
----
-
 ### Professional Projects 
 [AGLC Alberta Liquor, Gaming and Cannabis Commission](<a href="https://linktolsaprod.ca" target="_blank">linktolsaprod.ca"</a>)
 <img src="images/Streampsl.PNG?raw=true"/>
