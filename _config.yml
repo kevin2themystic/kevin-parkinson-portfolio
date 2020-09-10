@@ -9,10 +9,9 @@ description: > # your text below (remove <br> elements if you don't need line br
     laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi 
     architecto beatae vitae dicta sunt explicabo. 
   </p>
-  <br><br>
   View my <a target="_blank" href="https://kevin2themystic.github.io/react-resume//">resume</a> 
   <br>
-  <span style="font-size:8px">built with React + Typescript</span>
+  <span style="font-size:9px">built with React + Typescript</span>
   <br><br>
   Connect with me on <a target="_blank" href="https://www.linkedin.com/in/kevinaparkinson/">LinkedIn</a> 
   
