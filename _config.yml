@@ -3,13 +3,17 @@ logo: "/images/KevinPhone.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <div style="color: silver; font-weight: bold; font-sixe: 9px">Full Stack C# - React - ASP.NET - SQL Software Engineer</div>
   <br><br>
-  <h3>About Me</h3>
+  <h3 style='color: silver'>About Me</h3>
   <p>
-  
+    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque 
+    laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi 
+    architecto beatae vitae dicta sunt explicabo. 
   </p>
   <br><br>
-  View my <a target="_blank" href="https://kevin2themystic.github.io/react-resume//">resume</a> built with React + Typescript
+  View my <a target="_blank" href="https://kevin2themystic.github.io/react-resume//">resume</a> 
   <br>
+  <span style="font-size:8px">built with React + Typescript</span>
+  <br><br>
   Connect with me on <a target="_blank" href="https://www.linkedin.com/in/kevinaparkinson/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
